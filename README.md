@@ -14,7 +14,7 @@ The objective of this evaluation is to assess which response better satisfies th
 
 ### Overall Score
 
-**Likert Rating:** 6/7
+**Likert Rating:** 6/7sccddd
 
 ### Preferred Response
 
