@@ -8,7 +8,7 @@ The objective of this evaluation is to assess which response better satisfies th
 ---
 
 
-##Deploy Link : [https://preview--dsa-nectar-lab.lovable.app/](https://dsa-nectar-lab.lovable.app/)
+##Deploy Link : [https://dsa-nectar-lab.lovable.app/](https://dsa-nectar-lab.lovable.app/)
 
 ## Evaluation Summary
 
